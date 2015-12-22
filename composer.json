@@ -1,5 +1,5 @@
 {
-    "name": "gialachoanglong/hasoffers-php-client",
+    "name": "draperstudio/hasoffers-php-client",
     "description": "A clean & simple PHP Wrapper around the HasOffers API.",
     "require": {
         "php": ">=5.5.0",
